@@ -1,39 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d301491-1a29-4c02-b6b3-7afe13642215" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/common/middlewares/router_auth.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/routes/names.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/routes/pages.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/store/user.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/values/colors.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/global.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/sign_in/binding.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/sign_in/controller.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/sign_in/index.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/sign_in/state.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/sign_in/view.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/welcome/binding.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/welcome/controller.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/welcome/index.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/welcome/state.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/frame/welcome/view.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/message/binding.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/message/controller.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/message/index.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/message/state.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pages/message/view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Sound_Horizon.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/agora-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alert.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio_mixing/Agora.io-Interactions.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/dang.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ding.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Avenir-Book.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/a_microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/a_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/a_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/a_telephone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/a_trumpet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/a_video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/ang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/ao_trumpet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/b_microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/b_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/b_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/b_telephone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/b_trumpet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/b_video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/bo_trumpet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/by.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/voice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/account_header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/actionbar_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/aliuser_title_back_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ic_playing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons-facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons-google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons-twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/love.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/video_icon_praise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/video_msg_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/video_share_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common/entities/entities.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common/entities/user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common/services/Services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common/services/storage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common/store/store.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common/values/storage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common/values/values.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/bliss/MainActivity.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bliss.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bliss.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/common/store/user.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common/store/user.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/global.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/global.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/frame/sign_in/controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/frame/sign_in/controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/frame/sign_in/view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/frame/sign_in/view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/linux/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,19 +142,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "io.flutter.reload.alreadyRun": "true",
-    "last_opened_file_path": "D:/Source Code/Android/bliss/lib/pages/frame/sign_in",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Source Code/Android/bliss/ios/Runner&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Source Code\Android\bliss\ios\Runner" />
+      <recent name="D:\Source Code\Android\bliss\android\app" />
+      <recent name="D:\Source Code\Android\bliss" />
       <recent name="D:\Source Code\Android\bliss\lib\pages\frame\sign_in" />
       <recent name="D:\Source Code\Android\bliss\lib\pages\message" />
     </key>
@@ -117,6 +183,15 @@
       <option name="presentableId" value="Default" />
       <updated>1704182597042</updated>
     </task>
+    <task id="LOCAL-00001" summary="Setup till sign screen.">
+      <option name="closed" value="true" />
+      <created>1704382677129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704382677129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -124,6 +199,10 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Setup till sign screen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup till sign screen." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
