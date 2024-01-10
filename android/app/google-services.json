@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076485995008",
+    "project_id": "bliss-66dcd",
+    "storage_bucket": "bliss-66dcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076485995008:android:5b2a1b2bfb95c362bcf6e5",
+        "android_client_info": {
+          "package_name": "com.gowittgroup.bliss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbt0oSyfN4h4glv_BDrgn7-VG7l6rt7FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
